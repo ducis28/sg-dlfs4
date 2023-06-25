@@ -1,4 +1,4 @@
-# StudyGroup Deep Learning from Scratch 4
+# StudyGroup: Deep Learning from Scratch 4
 
 書籍『ゼロから作るDeep Learning ❹ 強化学習編』(オライリー・ジャパン)の勉強会の記録です。
 
